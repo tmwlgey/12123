@@ -3,13 +3,12 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: small;
   margin: 0px;
-  min-width: 900px;
 }
 
-.header {
+#header {
   background-color: #675c47;
-  margin: 0px 10px 10px 10px;
-  /* height: 108px; */
+  margin: 10px 10px 0px 10px;
+  height: 108px;
 }
 
 #main {
@@ -17,7 +16,6 @@ body {
   background: #efe5d0 url(images/background.gif) top left;
   font-size: 105%;
   padding: 15px;
-  /* margin: 0px 10px 10px 10px; */
   vertical-align: top;
 }
 
@@ -34,7 +32,7 @@ body {
   color: #efe5d0;
   text-align: center;
   padding: 15px;
-  /* margin: 0px 10px 10px 10px; */
+  margin: 0px 10px 10px 10px;
   font-size: 90%;
 }
 
@@ -62,48 +60,25 @@ a:visited {
   text-decoration: none;
   border-bottom: thin dotted #675c47;
 }
-/* #allcontent {
-  width: 800px;
+#allcontent {
+  /* width: 800px; */
   padding-top: 5px;
   padding-bottom: 5px;
   background-color: #675c47;
-} */
-div#tableContainer {
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+}
+#tableContainer {
   display: table;
   border-spacing: 10px;
 }
-div#tableRow {
+#tableRow {
   display: table-row;
 }
-div#drinks {
-  display: table-cell;
+.drinks {
+  display: table;
   background-color: #efe5d0;
   width: 20%;
-  padding:15px;
+  padding: 15px;
   vertical-align: top;
-  /* float: left; */
-}
-.header-images {
-  height: 108px;
-  width: 400px;
-  background-image: url(images/header.gif);
-}
-.header-right {
-  background-position-x: -400px;
-  float: right;
-}
-.award {
-  position: absolute;
-  top: 30px;
-  left: 365px;
-}
-.coupon {
-  position: fixed;
-  top: 350px;
-  left: -90px;
-  /* transition: all 0.5s;
-  transform: translate(-120px); */
-}
-.coupon a,img {
-  border: none;
 }
