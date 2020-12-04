@@ -1,8 +1,20 @@
-.one {
-  width: 180;
-  height: 35;
-  position: relative;
-  top: 30px;
-  left: 40px;
-  margin-top: 30px;
+body {
+  background-image: url(背景转换/4.jpg);
 }
+.one {
+  position: absolute;
+  float: left;
+  margin-left: 40px;
+  padding-top: 0px;
+}
+ul {
+  margin-top: 40px;
+  margin-left: 330px;
+  list-style-type: none;
+}
+ul li {
+  font-size: 20px;
+  padding: 0px 15px 0px 15px;
+  display: inline;
+}
+
