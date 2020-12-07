@@ -1,5 +1,5 @@
 body {
-  background-image: url(背景转换/4.jpg);
+  background-image: url(背景转换1/背景完整版2.jpg);
 }
 .one {
   position: absolute;
@@ -7,14 +7,28 @@ body {
   margin-left: 40px;
   padding-top: 0px;
 }
-ul {
+.two {
   margin-top: 40px;
   margin-left: 330px;
   list-style-type: none;
 }
-ul li {
+.two li {
   font-size: 20px;
-  padding: 0px 15px 0px 15px;
+  padding: 0px 27px 0px 27px;
+  display: inline;
+}
+.three {
+  margin-left: 470px;
+  margin-top: 110px;
+}
+.four {
+  margin-left: 715px;
+  margin-top: 30px;
+}
+.five {
+  position: relative;
+  background-color: white;
+  padding: 40px 200px 40px 200px;
   display: inline;
 }
 
