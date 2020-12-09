@@ -2,10 +2,10 @@ body {
   background-image: url(背景转换1/背景完整版2.jpg);
 }
 .one {
-  position: absolute;
+  /* position: absolute; */
   float: left;
   margin-left: 40px;
-  padding-top: 0px;
+  margin-top: -15px;
 }
 .two {
   margin-top: 40px;
@@ -30,5 +30,81 @@ body {
   background-color: white;
   padding: 40px 200px 40px 200px;
   display: inline;
+}
+.six {
+  background-color: white;
+  height: 76px;
+  margin-top: 20px;
+  width: 960px;
+  margin-left: 225px;
+  bottom: 1px;
+  padding-top: 27px;
+  padding-left: 40px;
+}
+.six1 {
+  padding-left: 200px;
+  margin-right: 500px;
+  margin-left: -110px;
+  font-size: 20px;
+  position: absolute;
+  margin-top: -103px;
+}
+.sever {
+  background-color: white;
+  height: 76px;
+  margin-top: 0px;
+  width: 960px;
+  margin-left: 225px;
+  padding-top: 29px;
+  padding-left: 40px;
+  /* border-bottom */
+}
+.sever1 {
+  margin-top: -40px;
+  margin-left: 263px
+}
+.sever2 {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: -84px;
+}
+.eight {
+  background-color: white;
+  height: 76px;
+  margin-top: 19px;
+  width: 960px;
+  margin-left: 225px;
+  padding-top: 29px;
+  padding-left: 40px;
+}
+.eight2 {
+  margin-left: 90px;
+  margin-top: -103px;
+}
+.nine {
+  background-color: white;
+  height: 76px;
+  margin-top: -4px;
+  width: 960px;
+  margin-left: 225px;
+  padding-top: 29px;
+  padding-left: 40px;
+}
+.nine1 {
+  margin-left: 90px;
+  margin-top: -105px;
+}
+.ten {
+  background-color: white;
+  width: 1583px;
+  margin-left: -8px;
+  height: 429px;
+  margin-top: -4px;
+}
+.ten1 {
+  position: absolute;
+  font-size: 55px;
+  margin-top: 90px;
+  margin-left: 100px;
 }
 
