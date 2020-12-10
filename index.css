@@ -98,13 +98,34 @@ body {
   background-color: white;
   width: 1583px;
   margin-left: -8px;
-  height: 429px;
+  height: 480px;
   margin-top: -4px;
 }
 .ten1 {
   position: absolute;
   font-size: 55px;
   margin-top: 90px;
-  margin-left: 100px;
+  margin-left: 120px;
 }
-
+.ten2 {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 120px;
+  background-color: #006d80;
+  padding: 15px 105px 15px 105px
+}
+.ten3 {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 800px;
+}
+.ten4 {
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 815px;
+}
+.ten5 {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 810px;
+}
