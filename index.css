@@ -1,8 +1,8 @@
 body {
   background-image: url(背景转换1/背景完整版2.jpg);
-  background-position-x: center;
 }
 .one {
+  /* position: absolute; */
   float: left;
   margin-left: 40px;
   margin-top: -15px;
@@ -11,7 +11,6 @@ body {
   margin-top: 40px;
   margin-left: 330px;
   list-style-type: none;
-  color: white;
 }
 .two li {
   font-size: 20px;
@@ -104,186 +103,31 @@ body {
   margin-top: -4px;
 }
 .ten1 {
-  font-size: 40px;
+  font-size: 55px;
   margin-top: 110px;
-  margin-left: 110px;
+  margin-left: 180px;
 }
 .ten2 {
-  margin-top: 80px;
-  margin-left: 110px;
-  margin-right: 1210px;
+  position: absolute;
+  margin-top: 65px;
+  margin-left: 180px;
   background-color: #006d80;
-  padding: 15px 80px 15px 80px;
-  color: white;
+  padding: 15px 100px 15px 100px;
 }
 .ten3 {
-  font-size: 25px;
-  margin-top: -280px;
+  margin-top: -230px;
   margin-left: 800px;
 }
 .ten4 {
-  font-size: 25px;
-  margin-top: 60px;
-  margin-left: 830px;
+  margin-top: 80px;
+  margin-left: 815px;
 }
 .ten5 {
-  font-size: 25px;
-  margin-top: 60px;
-  margin-left: 835px;
+  margin-top: 75px;
+  margin-left: 810px;
 }
-.elven {
-  position: absolute;
-  background-color:#dbdbdb ;
+.elevn {
+  background-color: #000000;
   width: 1583px;
   height: 3284px;
-  margin-top: 596px;
-  margin-left: -8px;
 }
-.elven1 {
-  margin-left: 720px;
-  margin-top: 100px;
-}
-.elven2 {
-  margin-top: 50px;
-  margin-left: 820px;
-}
-.elven3 {
-  margin-top: -400px;
-  margin-left: 90px;
-}
-.elven4 {
-  background-color: white;
-  padding: 50px 237px 50px 237px;
-  margin-left: 90px;
-  margin-top: -3px;
-  margin-right: 826px;
-}
-.elven4a {
-  margin-left: 35px;
-}
-.elven5 {
-  background-color: white;
-  padding: 50px 245px 50px 245px;
-  margin-top: -166px;
-  margin-left: 820px;
-  margin-right: 95px;
-}
-.elven5a {
-  margin-left: 35px;
-}
-.twelve {
-  display: inline;
-}
-.twelve1 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: 70px;
-  margin-left: 90px;
-  margin-right: 1200px;
-}
-.twelvea {
-  margin-top: -40px;
-  margin-left: 145px;
-}
-.twelve2 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -41px;
-  margin-left: 384px;
-  margin-right: 900px;
-}
-.twelveb {
-  margin-top: -41px;
-  margin-left: 454px;
-}
-.twelve3 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 684px;
-  margin-right: 900px;
-}
-.twelvec {
-  margin-top: -41px;
-  margin-left: 745px;
-}
-.twelve4 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 955px;
-  margin-right: 900px;
-}
-.twelved {
-  margin-top: -41px;
-  margin-left: 1020px;
-}
-.twelve5 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 1226px;
-  margin-right: 900px;
-}
-.twelvee {
-  margin-top: -41px;
-  margin-left: 1285px;
-}
-.twelve6 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: 21px;
-  margin-left: 90px;
-  margin-right: 1200px;
-}
-.twelvef {
-  margin-top: -40px;
-  margin-left: 145px;
-}
-.twelve7 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -41px;
-  margin-left: 384px;
-  margin-right: 900px;
-}
-.twelveg {
-  margin-top: -41px;
-  margin-left: 454px;
-}
-.twelve8 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 684px;
-  margin-right: 900px;
-}
-.twelveh {
-  margin-top: -41px;
-  margin-left: 745px;
-}
-.twelve9 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 955px;
-  margin-right: 900px;
-}
-.twelvei {
-  margin-top: -41px;
-  margin-left: 1020px;
-}
-.twelve10 {
-  background-color: white;
-  padding: 30px 135px 30px 135px;
-  margin-top: -40px;
-  margin-left: 1226px;
-  margin-right: 900px;
-}
-.twelvej {
-  margin-top: -41px;
-  margin-left: 1285px;
-}
-
-
-
