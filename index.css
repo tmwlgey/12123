@@ -397,12 +397,93 @@ body {
   margin-top: 180px;
 }
 .fifteen2 {
+  font-size: 18px;
   position: absolute;
   color: white;
   margin-top: -1040px;
   margin-left: 730px;
-  
 }
+.fifteen3 {
+  margin-top: -950px;
+  position: absolute;
+  margin-left: 705px;
+  width: 1px;
+  font-size: 27px;
+  color: white;
+}
+.fifteen4 {
+  margin-top: -950px;
+  position: absolute;
+  margin-left: 755px;
+  width: 1px;
+  font-size: 25px;
+  padding-left: 20px;
+  color: white;
+  border-left: solid 2px white;
+}
+.fifteen5 {
+  margin-top: -950px;
+  position: absolute;
+  margin-left: 825px;
+  width: 1px;
+  font-size: 28px;
+  padding-left: 20px;
+  color: white;
+  border-left: solid 2px white;
+}
+.fifteen7 {
+  position: absolute;
+  margin-left: 693px;
+  font-size: 24px;
+  color: white;
+  margin-top: -460px;
+}
+.fifteen8 {
+  position: absolute;
+  margin-left: 710px;
+  font-size: 20px;
+  color: white;
+  margin-top: -380px;
+}
+.fifteen9 {
+  position: absolute;
+  color: white;
+  padding: 13px 150px 13px 150px;
+  border: solid 1px white;
+  margin-left: 600px;
+  margin-top: -310px;
+}
+.fifteen10 {
+  position: absolute;
+  color: white;
+  margin-left: 620px;
+  margin-top: -230px;
+}
+.fifteen11 {
+  position: absolute;
+  color: white;
+  background-color: #006d80;
+  padding: 5px 16px 5px 16px;
+  margin-left: 920px;
+  margin-top: -245px;
+}
+.fifteen12 {
+  position: absolute;
+  color: white;
+  margin-left: 725px;
+  margin-top: -200px;
+}
+.fifteen13 {
+  position: absolute;
+  color: white;
+  margin-left: 735px;
+  margin-top: -170px;
+}
+.sixteen1 {
+  margin-top: -4px;
+  margin-left: -7px;
+}
+
 
 
 
